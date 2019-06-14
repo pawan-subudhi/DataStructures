@@ -1,5 +1,6 @@
 //Whatever you are trying to return from dequeue function to show it as an error should not be a member of queue.
 //We are going to use circular representation of an array in order to use the free spaces available in queue.
+//Even though the size of array is max we will use it as if it is max-1 queue and leave a blank space because of the fact that it is circular array and to distinguish between one side is begining and other side ending.
 #include<stdio.h>
 #define max 10
 int front=-1,rear=-1;
