@@ -1,5 +1,5 @@
 //Whatever you are trying to return from dequeue function to show it as an error should not be a member of queue.
-//enqueue id done at the end of linked list and deletion is done at front of linked list.
+//enqueue id done at the end of linked list and dequeue is done at front of linked list.
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
