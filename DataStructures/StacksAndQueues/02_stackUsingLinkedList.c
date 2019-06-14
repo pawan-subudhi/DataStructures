@@ -1,5 +1,5 @@
-//Whatever you are trying to return from pop function to show
-//it as a error should not be a member of stack.
+//Whatever you are trying to return from pop function to show it as a error should not be a member of stack.
+//A new created element is inseeted at front and deletion is also done at front they are the corresponding push and pop operations.
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
